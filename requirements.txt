@@ -1,0 +1,7 @@
+llama-cpp-python==0.2.90
+pillow
+fastapi
+uvicorn
+requests
+google-cloud-pubsub
+redis
