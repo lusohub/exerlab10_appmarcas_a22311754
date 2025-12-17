@@ -131,7 +131,7 @@ def main():
         print("Stopped listening")
 
 # Inicializa o gerador
-generator = MotoInfoGenerator()
+generator = MarcaInfoGenerator()
 
 if __name__ == "__main__":
     main()
